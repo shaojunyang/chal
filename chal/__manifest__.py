@@ -6,7 +6,7 @@
     'author': "www.mypscloud.com",
     'website': 'https://www.mypscloud.com/',
     'category': 'Tools',
-    'depends': ['base'],
+   # 'depends': ['base'],
 #     'data': [
 #         'security/ir.model.access.csv',
 #         'wizard/student_regiester_views.xml',
